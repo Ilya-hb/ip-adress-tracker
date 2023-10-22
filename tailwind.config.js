@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        roboto: ["Rubick", "sans"],
+        rubik: ["Rubik"],
       },
     },
   },
