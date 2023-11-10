@@ -1,4 +1,3 @@
-// mapSlice.ts
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 import { RootState} from "../../app/store";
 import { fetchIPData } from "./mapAPI";

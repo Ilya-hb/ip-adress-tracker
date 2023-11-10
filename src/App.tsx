@@ -27,7 +27,7 @@ function App() {
           <IpInfo type="ISP" />
         </div>
       </section>
-      <section className="h-3/6 md:h-4/6">
+      <section className="h-4/6 md:h-4/6">
         <MapLayer />
       </section>
     </div>
